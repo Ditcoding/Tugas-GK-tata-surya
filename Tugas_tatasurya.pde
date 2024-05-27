@@ -19,7 +19,7 @@ void setup() {
   PImage img = loadImage("matahari.jpg");
   PImage img_1 = loadImage("merkurius.jpg");
   PImage img_2 = loadImage("venus.jpg");
-  PImage img_3 = loadImage("earth.jpg");
+  PImage img_3 = loadImage("bumi.jpg");
   PImage img_4 = loadImage("mars.jpg");
   PImage img_5 = loadImage("jupiter.jpg");
   PImage img_6 = loadImage("saturnus.jpg");
@@ -51,7 +51,7 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(128);
   
   //matahari
   translate(width/2, height/2);
