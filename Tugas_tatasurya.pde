@@ -21,7 +21,7 @@ void setup() {
   PImage img_2 = loadImage("venus.jpg");
   PImage img_3 = loadImage("bumi.jpg");
   PImage img_4 = loadImage("mars.jpg");
-  PImage img_5 = loadImage("jupiter.jpg");
+  PImage img_5 = loadImage("Jupiter2.jpg");
   PImage img_6 = loadImage("saturnus.jpg");
   PImage img_7 = loadImage("uranus.jpg");
   PImage img_8 = loadImage("neptunus.jpg");
